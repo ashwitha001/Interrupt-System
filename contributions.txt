@@ -1,0 +1,20 @@
+Ashwitha Ala 101187120
+Jan Beyati 
+
+*Both members equally contributed to the completion of this assignment*
+
+
+PartI-Concepts
+Jan mainly completed the questions with help from Ash.
+
+
+Part2-Design and Implementation of an Interrupt Simulator
+
+Interrupts.c/Interrupts.h
+	Ash mainly wrote the code for the simulator with help from Jan
+
+Trace and Text files
+	Jan and Ash equally wrote the test and trace files
+
+report.doc
+	Jan mainly completed these questions with help from Ash
